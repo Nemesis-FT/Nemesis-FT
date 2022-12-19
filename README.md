@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Balugani</h1>
-<h3 align="center">A computer scientist based in Modena, Italy, passionate about web development and microservices.</h3>
+<h1>Hi 👋, I'm Lorenzo Balugani</h1>
+<h3>A computer scientist based in Modena, Italy, passionate about web development and microservices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis-ft&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis-ft" /> </p>
 
