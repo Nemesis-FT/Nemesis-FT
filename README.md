@@ -9,10 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [fermitech.info](fermitech.info)
 
-- ⚡ Fun fact **I really enjoy cooking.**
+- 📫 How to reach me **lorenzo.balugani@gmail.com**
+
+- 📄 Know about my experiences: [fermitech.info](fermitech.info)
+
+- ⚡ Fun fact: **I really enjoy cooking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/lorenzo-balugani-1164471b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo-balugani-1164471b7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/evilbalu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/evilbalu" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemesis-ft&show_icons=true&locale=en" alt="nemesis-ft" /></p>
