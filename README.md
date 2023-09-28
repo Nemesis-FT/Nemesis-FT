@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis-ft&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis-ft" /> </p>
 
-- 🔭 I’m currently working on [Balocco](https://github.com/RYGhub/balocco-navigator)
+- 🔭 I’m currently working on [Codex](https://github.com/Nemesis-FT/codex)
 
 - 🌱 I’m currently studying at **Alma Mater Studiorum - University of Bologna**
 
