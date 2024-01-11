@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis-ft&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis-ft" /> </p>
 
-- 🔭 I’m currently working on [Codex](https://github.com/Nemesis-FT/codex)
+- 🔭 I’m currently working on my Master's Degree thesis about my internship at [Cineca](cineca.it), the italian universities consortium
 
 - 🌱 I’m currently studying at **Alma Mater Studiorum - University of Bologna**
 
-- 👨‍💻 All of my projects are available at [fermitech.info](fermitech.info)
+- 👨‍💻 All of my projects are available at [fermitech.dev](fermitech.dev)
 
 - 📫 How to reach me **lorenzo.balugani@gmail.com**
 
-- 📄 Know about my experiences: [fermitech.info](fermitech.info)
+- 📄 Know about my experiences: [fermitech.dev](fermitech.dev)
 
 - ⚡ Fun fact: **I really enjoy cooking.**
 
